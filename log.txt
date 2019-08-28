@@ -533,3 +533,305 @@ Name of the Venue: Arlene Schnitzer Concert Hall
 Venue Location: Portland
 Date of the Event: 2020-03-19T19:30:00
 *****************************
+**********EVENT INFO*********
+0
+Name of the Venue: State Farm Stadium
+Venue Location: Glendale
+Date of the Event: 2019-08-26T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Hard Rock Stadium
+Venue Location: Miami Gardens
+Date of the Event: 2019-08-31T20:00:00
+*****************************
+**********SONG INFO*********
+0
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/f504e6b8e037771318656394f532dede4f9bcaea?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+1
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/fdfa0fe346a16b6aeb8136e6d2b7e11cacc6a06d?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+2
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/f89e85eee3b4a703dece5478e79469412501febb?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: HIStory - PAST, PRESENT AND FUTURE - BOOK I
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+3
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/41afb9315ad55bda8b77e395040a8ba290cfe99c?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: 80 Totally 80s Hits
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+4
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/bf1e690e1d7378328001e08e4cb23a7dedd6624b?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: VSQ Performs the Hits of Michael Jackson
+artist(s): Vitamin String Quartet
+*****************************
+**********SONG INFO*********
+5
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/9f8786da0612947d48210a968e36b2f0e6e404f5?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: The Essential Michael Jackson
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+6
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/48f364b15efb00727aeb9961224a9a31c86f3336?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Michael Jackson's This Is It
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+7
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/0b6dcbfb91959ee52615b0acc6b6613fbce9e748?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Number Ones
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+8
+song name: Billie Jean 2008 Kanye West Mix (feat. Kanye West) - Thriller 25th Anniversary Remix
+preview song: https://p.scdn.co/mp3-preview/d79b7d231f6179fc9d5d19c924996f6f096b745f?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+9
+song name: Billie Jean (Home Demo from 1981)
+preview song: https://p.scdn.co/mp3-preview/acd942d72a20f8e0c32559dc70d82d4d6459b434?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+10
+song name: Billie Jean - Underground Mix
+preview song: https://p.scdn.co/mp3-preview/8fe169a4ca10f6fbd82fae737e39fc29a0754e6a?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+11
+song name: Immortal Megamix: Can You Feel It / Don't Stop 'Til You Get Enough / Billie Jean/Black or White - Immortal Version
+preview song: https://p.scdn.co/mp3-preview/4e6f9eb512c5125064efc62fee4fd7f8401f8cb7?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Immortal
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+12
+song name: Billie Jean
+preview song: null
+album: Unity: The Latin Tribute To Michael Jackson
+artist(s): Tony Succar
+*****************************
+**********SONG INFO*********
+13
+song name: Billie Jean - Live
+preview song: https://p.scdn.co/mp3-preview/2a39b21f93ce1f060819f1c537190ca939e81b26?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Unity: The Latin Tribute to Michael Jackson (Live Concert Special)
+artist(s): Tony Succar
+*****************************
+**********SONG INFO*********
+14
+song name: Billie Jean (Homenaje a Michael Jackson)
+preview song: https://p.scdn.co/mp3-preview/f4257b688f18940d437bb39cbd3b823e91ba1605?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: La Tenia Mas Grande
+artist(s): Los Pikadientes De Caborca
+*****************************
+**********SONG INFO*********
+15
+song name: Billie Jean (Michael Jackson Cover)
+preview song: https://p.scdn.co/mp3-preview/6665b0efa3367415f8dbbb7a023dcc82f490bc1f?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Tabula Rasa
+artist(s): Calum Graham
+*****************************
+**********SONG INFO*********
+16
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/4157f9b1593fb3a2319877510aa9ca543e80bd6e?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: I Remember Michael (A Michael Jackson Solo Guitar Tribute)
+artist(s): Adam Rafferty
+*****************************
+**********SONG INFO*********
+17
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/2351ecc39eace8bf941b760c637737fe2ab97355?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Pop Music: The Modern Era 1976-1999
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+18
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/80bcf931610b21e06c86181f5dbc68e9d9fca12e?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: 8-Bit Versions of Michael Jackson
+artist(s): 8-Bit Misfits
+*****************************
+**********SONG INFO*********
+19
+song name: Billie Jean - Lullaby Version
+preview song: https://p.scdn.co/mp3-preview/38efb23fe328b90770ffd9833976dac7cab16060?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Lullaby Renditions of Michael Jackson
+artist(s): Baby Music from I'm In Records
+*****************************
+**********MOVIE INFO*********
+Title: Back to the Future
+Release Year: 1985
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 96%
+Country of Production: USA
+Language: English
+Plot: Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.
+Actors: Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+16
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: Boulevard You
+artist(s): CaryLamb
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=ee905f5e509947ff9d4e6e69b7f89a6f
+album: #90s Update
+artist(s): #90s Update
+*****************************
