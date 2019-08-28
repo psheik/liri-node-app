@@ -463,3 +463,73 @@ preview song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fc
 album: #90s Update
 artist(s): #90s Update
 *****************************
+**********MOVIE INFO*********
+Title: Scarface
+Release Year: 1983
+IMDB Rating: 8.3
+Rotten Tomatoes Rating: 81%
+Country of Production: USA
+Language: English, Spanish
+Plot: In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+Actors: Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 2019-08-28T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Royal Farms Arena (formerly Baltimore Arena)
+Venue Location: Baltimore
+Date of the Event: 2019-08-29T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Canalside
+Venue Location: Buffalo
+Date of the Event: 2019-08-30T17:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: St. Joseph’s Health Amphitheater at Lakeview
+Venue Location: Syracuse
+Date of the Event: 2019-08-31T20:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Xfinity Center
+Venue Location: Mansfield
+Date of the Event: 2019-09-01T19:30:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Prudential Center
+Venue Location: Newark
+Date of the Event: 2019-09-08T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Budweiser Stage
+Venue Location: Toronto
+Date of the Event: 2019-09-10T19:30:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: 2019-09-12T20:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Hollywood Bowl
+Venue Location: Hollywood
+Date of the Event: 2019-09-17T19:30:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Arlene Schnitzer Concert Hall
+Venue Location: Portland
+Date of the Event: 2020-03-19T19:30:00
+*****************************

@@ -33,7 +33,7 @@ function UserInputs (userChoice, input){
 }
 
 function showConcertInfo(input){
-    var queryUrl = "https://rest.bandsintown.com/artists/" + input + "/events?app_id=ee905f5e509947ff9d4e6e69b7f89a6f";
+    var queryUrl = "https://rest.bandsintown.com/artists/" + input + "/events?app_id=codingbootcamp";
     request(queryUrl, function(error, response, body) {
     // display if search is successful
     if (!error && response.statusCode === 200) {
